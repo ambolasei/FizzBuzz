@@ -1,7 +1,0 @@
-C:\Users\Andrzej Dobrzanski\source\repos\Gra\Gra\bin\Debug\Gra.exe.config
-C:\Users\Andrzej Dobrzanski\source\repos\Gra\Gra\bin\Debug\Gra.exe
-C:\Users\Andrzej Dobrzanski\source\repos\Gra\Gra\bin\Debug\Gra.pdb
-C:\Users\Andrzej Dobrzanski\source\repos\Gra\Gra\obj\Debug\Gra.csprojAssemblyReference.cache
-C:\Users\Andrzej Dobrzanski\source\repos\Gra\Gra\obj\Debug\Gra.csproj.CoreCompileInputs.cache
-C:\Users\Andrzej Dobrzanski\source\repos\Gra\Gra\obj\Debug\Gra.exe
-C:\Users\Andrzej Dobrzanski\source\repos\Gra\Gra\obj\Debug\Gra.pdb
